@@ -1,6 +1,7 @@
 # IR
 
 This code performs text retrieval using the TF-IDF algorithm. 
+
 The storage library is from Google Cloud to access data stored in a Google Cloud Storage bucket. 
 NLTK library used to perform tokenization and stopword removal.
 
