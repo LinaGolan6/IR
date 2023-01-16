@@ -11,7 +11,6 @@ It also use NLTK's list of stopwords, which are used in the tokenize function to
 
 The code then defines several functions to perform text retrieval: 
 The tokenize function tokenizes a given text and removes stopwords, get_candidate_documents_and_scores retrieves candidate documents and their scores, 
-
 binary_search function is used to find the similarity between the query and the documents.
 
 tfidf_candidates and tfidf_query function is used to calculate the tf-idf score of candidate documents and query to rank them.
